@@ -1,0 +1,9 @@
+(version 1)
+(rule "Via style 1"
+	(constraint via_diameter (min 0.4mm) (max 0.6mm))
+	(constraint hole_size (min 0.2mm) (max 0.3mm))
+	(condition "A.Via_Type == 'Through'")
+)
+(rule "Minimum clearance 1"
+	(constraint clearance (min 0.127mm))
+)
