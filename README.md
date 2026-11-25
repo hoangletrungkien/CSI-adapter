@@ -10,8 +10,6 @@ An adapter board converting **FRAMOS Sensor Adapter (FSA)** interface to a **30-
 | :---: | :---: |
 | ![PCB 3D Top](images/pcb-3d-top.png) | ![PCB 3D Bottom](images/pcb-3d-bottom.png) |
 
-> *Tip: Create an `images/` folder in your repository and export 3D renders from KiCad (`Alt + 3` -> `File -> Export Current View as PNG...`).*
-
 ---
 
 ## Key Features
